@@ -13,7 +13,7 @@ $(document).ready(function (){
             }
         });
         $('#loginButton').click(function() {
-    $('#loginModal').modal('show');
+    $('#loginModal').modal('show'); 
   });
   $('#reserveButton').click(function() {
     $('#reservation').modal('show');
